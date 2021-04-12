@@ -6,8 +6,10 @@ https://play.google.com/store/apps/details?id=com.linecorp.linelite&hl=ja
 
 https://github.com/line
 
-clubhatch-r
 
+```
+clubhatch-r
+```
 
 ```
 TAKAGOTCH I'll listen to anything
@@ -22,6 +24,29 @@ The long-awaited stamp of Takashi alone has been completed. Are you worried abou
 ```
 
 ```
+takagotch
+ACTIVATE-D llc Creators Branch 
 ```
 
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
+
+```
+```
 

@@ -10,10 +10,14 @@ clubhatch-r
 
 
 ```
-Official TAKAGOTCH Beginers Stamps
+TAKAGOTCH I'll listen to anything
+
+TAKAGOTCH　なんでも聞くよ
 ```
 
 ```
+The long-awaited stamp of Takashi alone has been completed. Are you worried about Takashi's facial expression that is different from usual? He is a kind friend who always listens to me by my side.
+
 お待ちかねのタカシ単独のスタンプが出来上がりました。いつもと違うタカシのう表情が気になりませんか？いつもみんなのそばで話を聞いてくれる優しいお友だちです。
 ```
 

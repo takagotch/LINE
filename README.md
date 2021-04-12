@@ -34,6 +34,7 @@ ACTIVATE-D llc Creators Branch
 勝利
 
 うん
+おけ
 了解です。
 
 おは
@@ -41,9 +42,10 @@ ACTIVATE-D llc Creators Branch
 
 よ
 元気？
-ありがとうございます。
 
-おけ
+ありがとうございます。
+宜しくお願い致します。
+
 
 
 ```

@@ -71,12 +71,19 @@ https://creator.line.me/ja/guideline/sticker/
 ```
 
 ```
+.jpg -> .png
+https://www.bannerkoubou.com/photoeditor/conversion/
+
+```
+000 * 000 -> 240 * 240 
+https://www.iloveimg.com/ja/download/d9mwAqjvcjypcm569knc5cl463gh5hn0tvtb8g7lrA9yczvtjg8dn4A0cq83p4ptp41cg18vg5zm4bdmyl6dwl730pf6xps6jc5x9x9ln2zqpngvycvh77mp43b2l27ts5lrncy7tc6pyx1Asjxdgr6vrk68qbdch0gbphdActjxwls3w0h1/2
+
 ```
 
 ```
-```
 
 ```
+
 ```
 
 ```

@@ -2,3 +2,12 @@
 ---
 
 https://www.bannerkoubou.com/photoeditor/transparent/
+
+
+![LINE Stamp1 OverallView](https://raw.githubusercontent.com/takagotch/LINE/master/stamp1.jpg)
+
+
+
+
+
+

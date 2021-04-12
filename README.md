@@ -46,6 +46,12 @@ ACTIVATE-D llc Creators Branch
 ありがとうございます。
 宜しくお願い致します。
 
+Love u
+
+ナイスゥー
+
+了解
+
 あ
 い
 う

@@ -115,7 +115,7 @@ https://www.canva.com/design/DAEbfgG8ZoM/WeLH1GYaWrj83ub4e8QHvw/edit
 
 ```
 
-![LINE Stamp1 OverallView](https://raw.githubusercontent.com/takagotch/LINE/master/stamp1.jpg)
+![LINE Stamp1 OverallView](https://raw.githubusercontent.com/takagotch/LINE/master/stamp2.jpg)
 
 
 ```

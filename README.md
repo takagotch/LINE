@@ -138,5 +138,3 @@ https://github.com/takagotch/LINE/tree/master/assets/5/%E3%82%B5%E3%83%B3%E3%83%
 
 
 
-
-

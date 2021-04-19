@@ -7,8 +7,13 @@ https://play.google.com/store/apps/details?id=com.linecorp.linelite&hl=ja
 https://github.com/line
 
 
+---
+https://creator.line.me/my/xeCmaT694tSq0cYq/sticker/20468309
 
 https://store.line.me/stickershop/product/14977255/ja?ref=gnsh_stickerDetail
+
+https://store.line.me/stickershop/author/2178595
+
 
 
 
